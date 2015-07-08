@@ -1,0 +1,4 @@
+{
+  "directory": "bower_components",
+  "proxy":"http://proxy.corp.globant.com:3128"
+}
